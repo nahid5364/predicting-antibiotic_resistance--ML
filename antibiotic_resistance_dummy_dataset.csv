@@ -1,0 +1,2001 @@
+Age,Gender,Admission_Department,Hospitalization_Duration,Last_Antibiotic_Exposure,Region,Ciprofloxacin,Resistance_in_Urine,Previous_Resistance_to_Antibiotics,Diabetes,Hypertension,Chronic_Lung_Disease,Cardiovascular_Disease,Previous_Visits,Resistance
+32,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,1,0,1,6,1
+21,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,0,1,5,1
+53,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,6,1
+49,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,1,0,0,5,0
+46,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,1,8,1
+35,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,0,0,2,0
+31,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,1,0,1,1,3,1
+87,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,1,1,0,0,4,0
+29,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,1,4,0
+72,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,1,1,1,5,0
+22,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,1,0,3,0
+21,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,1,1,0,1,8,1
+29,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,0,1,1,5,0
+45,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,1,0,1,1,10,0
+47,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,1,0,1,10,1
+82,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,1,6,1
+21,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,0,1,5,1
+89,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,3,1
+43,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,1,1,1,0,5,1
+87,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,0,1,2,1
+71,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,1,1,1,3,0
+46,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,0,1,10,1
+75,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,0,1,1,2,0
+53,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,0,0,0,6,0
+18,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,0,1,1,6,0
+38,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,1,1,1,0,0
+72,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,1,1,0,1,10,0
+61,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,0,1,1,10,1
+53,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,0,0,0,1,10,0
+37,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,0,1,0,1
+45,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,1,0,0,0,0
+61,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,1,4,1
+31,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,0,0,0,7,0
+29,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,1,0,0,1
+66,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,1,1,9,1
+30,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,1,0,1,1,1
+63,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,1,1,1,1
+62,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,1,0,1
+51,Female,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,0,0,1,3,1
+23,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,1,1,1,4,0
+76,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,1,1,0,9,1
+86,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,0,0,10,1
+33,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,0,1,5,0
+66,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,1,0,0,0,6,1
+28,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,1,0,1,1,1
+88,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,1,0,1,1,1
+55,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,0,0,9,1
+64,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,1,0,9,0
+42,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,1,0,8,1
+26,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,0,9,0
+23,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,1,1,9,0
+47,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,1,0,0,6,1
+55,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,0,0,5,0
+28,Other,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,0,1,0,1,1
+47,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,0,1,1,1,1
+30,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,1,0,0,8,0
+66,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,1,1,1,1,1,1
+53,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,1,1,10,0
+76,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,0,1,1,5,1
+64,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,0,1,0,0,8,1
+38,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,0,0,0,3,1
+65,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,0,1,7,1
+63,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,1,1,4,0
+44,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,1,6,0
+52,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,0,1,1,6,1
+27,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,1,1,1,0,1,0
+39,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,1,0,1,0,4,1
+86,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,0,4,1
+49,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,1,1,1,7,1
+38,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,1,0,7,0
+77,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,0,6,1
+66,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,0,0,1,1
+52,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,0,0,8,1
+89,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,1,1,0,10,0
+46,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,1,0,10,1
+59,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,0,1,1,6,0
+25,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,0,0,8,0
+47,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,0,0,0,1,7,0
+22,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,1,1,0,1,10,1
+58,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,0,0,1,0,0,1
+69,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,1,1,0,0,4,1
+52,Other,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,1,1,1,1,7,1
+26,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,0,0,1,1,9,1
+45,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,1,6,1
+90,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,0,1,0,1,0,0,6,1
+58,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,0,1,0,10,0
+45,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,0,0,10,0
+81,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,1,0,6,1
+68,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,1,0,1,0,0,8,0
+76,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,0,1,0,0,2,0
+36,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,1,0,1,9,0
+51,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,0,0
+35,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,1,0,0,1,1,5,1
+49,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,1,1,0,2,1
+89,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,0,0,0,5,0
+86,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,0,0,1,6,1
+51,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,1,1,1,5,1
+72,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,1,1,9,0
+69,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,1,1,9,1
+64,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,1,1,1,5,0
+46,Other,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,0,0,0,0,1
+35,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,1,1,0,0,8,0
+83,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,0,1,10,1
+81,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,0,1,0,9,1
+29,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,0,1,1,1,0
+24,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,0,0,1,4,0
+32,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,0,1,2,1
+37,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,0,1,1,1,1,1,3,1
+38,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,1,0,1,3,1
+72,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,1,1,1,0,1
+26,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,0,1,1,2,1
+67,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,1,1,0,9,0
+66,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,1,1,0,2,1
+77,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,0,1,0,7,0
+85,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,1,6,1
+50,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,4,0
+88,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,0,1,0,0,1
+19,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,1,1,0,5,1
+32,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,1,1,0,1,1,4,1
+86,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,1,1,0,7,0
+52,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,1,0,1,10,0
+61,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,1,1,0,1,3,1
+32,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,1,0,1,1,9,1
+55,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,1,1,8,1
+73,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,1,0,0,6,1
+38,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,1,0,1,2,0
+76,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,1,0,0,2,0
+18,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,0,1,1,1,1,0
+51,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,0,0,1,4,1
+82,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,1,1,0,1
+40,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,0,0,0,5,0
+82,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,1,0,1,1
+31,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,1,0,1,0,3,1
+56,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,1,0,1,1
+82,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,1,8,0
+43,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,0,0,6,0
+37,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,1,1,1,6,1
+65,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,1,0,1,0,0
+38,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,1,0,0,0,4,1
+87,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,0,1,1,7,1
+85,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,0,1,0,4,0
+18,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,1,1,7,1
+59,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,0,1,3,1
+80,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,1,3,1
+20,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,0,1,8,0
+32,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,1,9,1
+64,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,1,0,0,1,1
+57,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,0,0,4,0
+48,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,0,0,1,0,1,7,1
+25,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,0,1,8,0
+48,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,0,0,0,1,5,1
+90,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,0,1,2,1
+28,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,1,0,1,4,1
+28,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,0,1,1,7,1
+80,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,0,4,0
+26,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,1,0,4,0
+86,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,1,0,2,1
+34,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,0,0,0,0
+34,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,1,0,3,1
+78,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,1,0,1,5,0
+88,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,0,1,9,1
+39,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,0,1,0,4,1
+51,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,0,0,4,1
+85,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,0,1,1,1,1,1
+72,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,0,0,0,0,1
+45,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,1,1,0,1,10,0
+87,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,0,2,1
+43,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,1,0,0,0,3,1
+57,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,1,0,0,8,0
+69,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,1,1,1,7,0
+65,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,0,0,0,10,1
+74,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,1,1,1,3,1
+84,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,0,0,1,1,1,5,1
+75,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,0,1,1,1
+33,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,0,0,1,8,1
+49,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,0,1,1,10,1
+46,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,0,0,0,6,1
+26,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,1,1,6,1
+61,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,1,1,1,0,4,0
+20,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,1,0,7,0
+88,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,0,1,1,0,1,7,0
+47,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,1,0,4,0
+46,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,1,0,0,1,0
+18,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,1,0,3,0
+27,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,0,1,1,1,1
+25,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,0,0,0,0,3,1
+47,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,0,0,5,0
+26,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,1,0,1,1,1
+22,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,0,1,1,1,0,8,1
+60,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,1,0,1,1,10,0
+27,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,1,0,0,1,3,0
+83,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,0,0,0,1
+48,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,0,1,1,2,1
+53,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,0,0,0,5,1
+80,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,1,0,8,1
+45,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,1,1,0,0,5,1
+87,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,0,0,1,1,3,1
+34,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,0,1,1,4,0
+78,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,0,0,0,6,0
+49,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,0,0,0,5,1
+78,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,1,0,8,0
+70,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,1,0,0,0,1,1
+42,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,1,1,1,0,5,1
+30,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,0,0,3,1
+30,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,0,1,1,0,9,1
+73,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,1,1,1,0,8,1
+63,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,1,1,1,0,8,1
+72,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,0,0,0,5,1
+70,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,0,0,10,1
+77,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,0,0,1,1,1,2,1
+24,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,0,0,1,1,1,0
+30,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,0,1,0,7,1
+25,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,1,0,8,1
+69,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,0,1,0,9,1
+61,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,0,0,1,1,5,1
+31,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,1,1,5,1
+49,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,0,0,1,0,9,1
+42,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,1,0,9,1
+42,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,1,1,1,1,1,0,1
+86,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,1,1,0,9,1
+75,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,0,0,0,1,8,1
+35,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,0,0,1,0,4,0
+72,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,1,1,1,10,1
+41,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,0,0,1,1
+53,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,0,0,0,2,1
+77,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,0,1,0,8,1
+49,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,1,0,6,0
+27,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,0,0,1,5,0
+74,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,1,0,1,5,1
+88,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,0,1,0,1,8,0
+30,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,0,0,1,1
+24,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,1,1,1,6,1
+87,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,0,1,1,0,7,0
+19,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,1,0,5,0
+29,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,0,0,0,9,0
+48,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,1,1,2,0
+39,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,1,1,3,1
+70,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,1,1,0,0,8,1
+80,Other,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,0,0,1,1,3,1
+79,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,1,0,1,1
+45,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,1,1,0,1,9,0
+69,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,0,0,3,0
+25,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,1,0,0,0,4,1
+39,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,0,1,8,1
+66,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,1,0,0,1,9,0
+18,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,0,1,1,1
+67,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,1,0,1,8,1
+51,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,1,0,0,1
+76,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,1,1,0,0,1
+54,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,0,0,0,3,0
+72,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,0,0,1,8,0
+89,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,1,0,0,1,1,0
+80,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,0,0,0,1,4,0
+37,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,0,0,1,6,0
+42,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,0,1,1,0,3,1
+55,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,1,0,4,0
+45,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,1,1,0,2,0
+25,Female,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,1,1,9,1
+87,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,0,1,0,2,0
+25,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,0,0,4,0
+58,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,0,0,0,2,0
+25,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,0,0,0,1,1
+24,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,1,1,9,0
+79,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,0,0,5,1
+82,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,0,1,9,0
+85,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,1,1,0,0,7,0
+38,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,1,1,0,1,3,1
+25,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,0,0,1
+83,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,1,1,1,9,1
+28,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,1,1,1,0
+41,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,1,0,1,2,1
+26,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,1,1,1,1
+26,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,0,1,1,8,0
+48,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,0,0,0,5,1
+69,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,1,0,0,2,1
+33,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,1,1,1,1,7,1
+90,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,0,1,3,1
+49,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,0,1,0,1,4,0
+23,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,1,0,0,1,1
+28,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,0,1,1,1,1,0
+71,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,1,1,4,1
+90,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,0,0,0,0,6,0
+84,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,1,0,1,0
+58,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,0,0,1,3,0
+51,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,1,0,1,0,3,0
+44,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,0,0,1,0
+58,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,0,1,1,0,0,5,0
+48,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,1,0,10,1
+51,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,1,0,1,5,1
+68,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,1,1,0,5,0
+34,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,1,0,1,3,1
+56,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,1,0,0,0,1
+76,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,0,0,1,1,1,1
+58,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,0,1,0,1,5,1
+27,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,0,0,3,1
+19,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,1,1,1,0,1
+76,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,0,1,1,1,3,1
+90,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,1,1,1,0,1
+30,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,0,0,1,4,0
+27,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,1,1,4,0
+86,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,0,1,0,1,0,1
+45,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,0,1,7,1
+82,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,1,1,7,0
+51,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,1,1,0,8,1
+34,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,0,0,1,0
+62,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,1,1,10,0
+26,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,0,1,1,0,1,1
+49,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,0,1,0,0,0
+65,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,1,0,1,9,1
+54,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,1,0,1,1,6,0
+38,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,1,1,5,1
+74,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,0,0,9,1
+87,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,0,0,0,8,1
+56,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,0,1,0,4,1
+85,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,0,0,1,10,0
+19,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,0,0,0,1,5,0
+88,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,1,1,0,5,0
+56,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,1,0,0,7,0
+31,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,0,1,0,1,6,1
+35,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,1,6,1
+51,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,0,3,1
+32,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,1,1,1,4,1
+31,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,1,1,1,0,5,1
+88,Female,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,0,0,4,1
+37,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,0,0,1,1
+52,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,1,1,0,8,0
+54,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,0,1,1,1,2,0
+44,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,1,0,1,1,9,0
+61,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,0,0,9,1
+44,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,1,0,0,1,1
+51,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,0,0,1,0,0,2,1
+82,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,1,0,0,1,6,1
+80,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,0,1,1,1,9,1
+50,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,0,0,1,9,0
+24,Other,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,0,0,1,4,0
+29,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,0,0,5,1
+72,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,0,1,1,0,2,0
+53,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,0,0,1,1,0,1
+23,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,0,1,6,1
+18,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,0,0,4,1
+60,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,1,1,1,10,0
+34,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,0,1,1,1
+51,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,1,1,0,1,9,0
+38,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,1,1,1,1,1,1
+74,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,0,1,0,0,0
+88,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,1,0,0,6,0
+72,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,0,0,0,1,1
+89,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,1,0,1,6,1
+19,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,0,0,10,1
+32,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,0,1,0,6,1
+27,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,0,0,1,9,1
+37,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,1,1,0,1,1,0
+87,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,0,1,0,0
+22,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,0,1,1,0,1
+65,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,0,1,0,8,1
+88,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,0,1,0,10,1
+36,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,0,0,0,1,2,1
+73,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,0,1,2,0
+34,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,0,0,0,10,0
+23,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,1,0,0,1,4,1
+57,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,1,0,0,0,2,1
+64,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,1,1,1,1
+23,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,0,0,1,0,1,6,1
+63,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,1,1,0,0,8,1
+44,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,1,1,0,2,1
+49,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,1,1,0,6,1
+31,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,0,1,0,8,0
+63,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,0,1,2,0
+89,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,1,1,0,1,2,1
+70,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,0,1,1,0,10,1
+37,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,1,0,1,1,1
+48,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,1,1,1,1,10,1
+38,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,1,0,7,1
+40,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,0,1,1,5,0
+70,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,0,1,0,10,0
+21,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,1,0,6,1
+40,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,1,1,1,0,2,0
+60,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,0,0,0,10,1
+70,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,0,0,6,1
+49,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,0,1,0,1,9,1
+52,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,1,9,1
+38,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,1,1,1,6,1
+31,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,1,1,2,1
+66,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,0,1,1,0,0
+22,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,0,0,0,0,8,1
+78,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,1,1,0,3,1
+46,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,1,0,1,0,10,1
+43,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,0,4,0
+76,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,0,0,0,0,7,1
+62,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,0,1,9,1
+57,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,0,0,0,1,1
+47,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,0,0,1,0,0,1
+46,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,0,1,1,0,0,0
+21,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,1,1,5,1
+42,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,0,0,0,1,9,1
+69,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,0,1,1,3,1
+60,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,0,1,1,1,2,1
+53,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,1,0,0,10,1
+26,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,0,1,10,1
+53,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,0,10,0
+62,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,1,1,1,10,0
+83,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,0,1,0,0,5,0
+69,Other,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,1,1,1,7,1
+86,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,0,0,2,1
+60,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,1,2,0
+21,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,1,1,8,1
+32,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,0,0,1,0,10,1
+51,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,1,1,0,7,1
+40,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,1,0,0,0,1
+51,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,0,1,0,3,1
+22,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,0,1,1,2,1
+31,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,1,1,1,2,0
+73,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,1,0,0,1
+62,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,0,0,1,0,0,1
+58,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,0,1,1,0,10,0
+73,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,0,1,1,0,10,1
+83,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,1,0,1,7,0
+32,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,1,1,4,1
+67,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,1,1,1,8,0
+42,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,0,1,0,0,5,0
+50,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,1,1,1,1,9,1
+23,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,0,1,0,7,1
+73,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,1,1,2,0
+18,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,1,0,0,0,4,1
+84,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,0,1,3,1
+86,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,0,1,1,0,8,1
+43,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,1,1,1,7,1
+64,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,0,0,1,0
+73,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,1,0,1,2,0
+26,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,0,9,1
+60,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,0,1,0,5,1
+58,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,1,1,1,1,1
+33,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,1,1,0,0,4,1
+56,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,1,0,0,5,0
+82,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,1,1,0,0,2,1
+57,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,0,0,0
+70,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,1,0,1,5,1
+59,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,1,0,0,0,10,1
+69,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,1,0,1,8,0
+55,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,0,1,0,10,1
+88,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,0,1,0,1
+34,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,1,1,1,1,2,1
+42,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,0,1,10,1
+71,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,0,0,0,8,1
+66,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,0,1,6,1
+40,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,1,1,1,0,0,0
+90,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,1,0,0,1,0,6,0
+56,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,0,1,1,0,0
+69,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,0,1,1,4,1
+88,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,0,1,0,8,1
+18,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,1,1,1,1,0,0,1
+56,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,1,0,0,0,2,0
+54,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,0,0,1,2,1
+44,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,1,1,4,1
+73,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,0,1,1,0,0,1
+59,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,0,1,0,6,1
+77,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,5,1
+74,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,0,4,1
+74,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,1,0,1,0,7,1
+45,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,1,0,1,1,4,1
+83,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,0,1,7,0
+78,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,0,0,1,6,1
+39,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,0,0,0,0,1,9,1
+28,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,0,1,5,0
+54,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,1,0,0,1
+83,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,1,1,1,9,1
+60,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,1,1,0,1,1,0,1
+29,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,1,0,0,4,1
+48,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,1,1,1,1,1
+57,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,0,0,10,1
+46,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,0,0,8,0
+43,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,1,0,0,9,0
+36,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,0,0,1,8,1
+21,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,0,1,0,5,0
+23,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,0,0,6,1
+49,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,1,1,6,1
+78,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,0,4,1
+27,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,0,0,1,3,0
+76,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,1,0,1
+71,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,0,1,0
+42,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,0,0,1,6,1
+67,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,1,0,5,1
+81,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,0,0,10,1
+69,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,1,0,0,5,1
+49,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,0,0,1,1,6,1
+36,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,1,0,1,0,1,2,1
+18,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,1,0,1,1,1,3,1
+31,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,0,0,8,1
+72,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,1,1,1,8,1
+46,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,0,1,1,7,1
+40,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,0,0,8,0
+84,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,0,1,8,1
+77,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,1,1,8,1
+24,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,0,1,0,7,1
+89,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,0,1,6,1
+49,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,0,0,0,1,5,1
+33,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,0,1,0,6,0
+76,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,1,0,0,9,1
+35,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,0,1,0,0,9,1
+77,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,0,0,3,0
+85,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,1,1,1,1,1
+89,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,0,1,3,0
+58,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,0,0,0,6,0
+74,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,1,0,0,1,10,1
+82,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,0,1,0,0,1
+72,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,1,6,1
+88,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,0,1,0,10,1
+75,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,1,0,0,0,2,1
+38,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,1,1,2,1
+78,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,1,1,1,9,0
+75,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,1,1,1,0,0
+51,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,1,1,1
+49,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,0,0,0,1,0
+53,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,1,1,3,0
+84,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,0,1,8,1
+80,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,0,1,6,1
+48,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,0,1,0,1
+53,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,0,1,4,1
+74,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,1,0,7,1
+27,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,1,0,0,1,9,1
+54,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,1,1,0,1,4,1
+48,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,1,1,0,0,10,1
+52,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,0,0,7,1
+60,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,0,0,0,0,1,1
+58,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,1,1,9,0
+87,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,1,1,9,1
+28,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,1,0,0,1
+35,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,1,0,0,3,1
+37,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,0,0,8,1
+47,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,0,0,1
+67,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,0,0,1,3,1
+37,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,0,1,0,0,5,1
+45,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,1,1,1
+26,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,0,0,4,1
+71,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,1,0,1,8,1
+70,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,1,0,9,0
+60,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,0,0,0,5,0
+87,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,0,1,0,3,1
+77,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,1,0,1,0,8,1
+71,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,1,0,0,2,1
+25,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,1,0,0,0,9,0
+44,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,0,0,4,1
+71,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,0,1,1,0,4,1
+67,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,1,1,0,1,1
+20,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,1,1,9,1
+66,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,0,1,1
+79,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,0,0,1,4,0
+18,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,1,1,0,1,7,1
+63,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,1,0,9,1
+56,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,0,1,1,0,0,1
+67,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,1,1,5,1
+71,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,1,1,1,3,1
+86,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,1,1,0,4,0
+87,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,1,1,7,0
+46,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,0,0,1,2,0
+80,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,0,0,8,0
+46,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,1,0,1,3,1
+52,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,0,1,0,9,1
+73,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,0,0,5,0
+80,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,0,0,1,1,1,1
+21,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,1,0,6,0
+67,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,1,7,0
+61,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,1,0,1,1,3,0
+69,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,0,1,10,1
+39,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,1,0,1,0,1,0,1
+77,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,0,0,1,1,9,1
+34,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,0,0,1,0,5,1
+86,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,0,1,1,1,3,1
+21,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,0,0,1,2,1
+68,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,0,0,10,0
+90,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,1,0,0,1,6,0
+21,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,0,0,1,1,0,7,0
+28,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,0,1,0,0,1
+72,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,1,0,0,8,0
+35,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,0,1,4,0
+77,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,1,0,0,8,0
+41,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,1,0,1,8,0
+24,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,1,1,6,1
+51,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,1,1,1,0,10,0
+66,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,1,0,8,0
+59,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,0,1,1,6,1
+45,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,0,1,5,0
+76,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,0,0,6,1
+59,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,1,1,10,0
+61,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,1,2,0
+66,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,1,0,1,9,1
+53,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,1,1,2,1
+71,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,0,0,5,0
+50,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,1,10,1
+28,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,0,0,10,0
+78,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,0,1,1,8,1
+20,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,1,1,10,1
+87,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,0,1,2,1
+24,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,0,1,0,1,2,0
+62,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,0,0,8,1
+46,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,1,1,0,0,2,1
+26,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,1,0,1,8,0
+23,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,0,0,0
+21,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,0,0,1,1
+49,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,1,0,8,1
+43,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,1,0,0,3,0
+20,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,1,0,1,2,1
+37,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,0,1,0,1,3,1
+48,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,1,1,0,0,5,0
+34,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,0,0,3,1
+78,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,0,1,1,0,1
+32,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,0,6,1
+90,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,1,1,1,0,8,1
+45,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,1,0,1,8,1
+77,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,0,1,1,5,1
+50,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,0,1,1,1,6,1
+65,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,0,0,8,1
+39,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,1,1,0,4,1
+32,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,0,1,0,10,0
+38,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,0,1,1,6,0
+57,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,0,7,0
+31,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,1,0,0,6,0
+21,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,1,1,10,1
+57,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,0,0,0,7,1
+66,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,0,0,8,0
+68,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,1,0,1,0,0,1
+43,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,1,1,9,1
+27,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,1,1,6,1
+49,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,0,1,4,1
+31,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,0,0,1,5,0
+56,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,1,1,0,1,8,1
+33,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,0,0,0,3,0
+90,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,0,1,7,1
+23,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,0,0,0,4,1
+62,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,0,4,0
+86,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,0,0,9,1
+72,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,0,0,1,5,1
+65,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,0,0,1,9,0
+26,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,0,0,0,7,1
+82,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,1,1,0,0,5,0
+61,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,1,1,0,0,2,1
+19,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,1,1,0,0,1,1
+71,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,1,0,1,3,1
+80,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,0,5,0
+31,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,1,1,10,0
+73,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,0,0,3,1
+64,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,0,0,0,1,1,1
+76,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,1,0,1,7,1
+37,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,1,0,1,5,0
+73,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,0,1,1,1,5,1
+40,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,0,0,1,1,10,1
+84,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,1,0,5,0
+52,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,0,1,9,1
+86,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,0,1,1,1,0,1,10,1
+79,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,1,0,0,0,2,1
+77,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,1,1,0,0,8,0
+73,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,1,1,9,0
+52,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,1,0,1,0,0,7,1
+59,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,1,1,1,4,1
+49,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,0,1,8,1
+29,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,7,0
+53,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,1,0,0,0,4,1
+75,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,1,1,0,1,1,0
+49,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,0,0,1,10,1
+77,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,1,0,0,1,1
+90,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,1,1,0,1,10,0
+66,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,0,1,0,4,1
+61,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,0,1,1,1,8,1
+21,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,1,1,1,6,1
+81,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,1,0,1,0,1,10,1
+59,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,0,1,2,1
+41,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,1,0,0,0,6,1
+80,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,1,0,7,0
+45,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,0,1,5,1
+63,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,0,0,1,0
+51,Other,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,0,1,1,1,1,10,1
+61,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,1,1,1,1
+53,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,1,9,1
+53,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,0,1,1,1,9,1
+89,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,0,1,0,1,7,1
+19,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,0,1,6,1
+84,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,1,1,4,1
+42,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,1,1,5,1
+28,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,0,1,1,0,1,3,1
+48,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,1,1,0,0,4,1
+70,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,0,1,1,9,1
+80,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,1,1,6,1
+89,Female,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,0,0,5,1
+48,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,1,5,0
+78,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,0,1,1,1,1
+80,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,1,1,0,1,5,1
+75,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,1,0,10,0
+20,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,1,1,0,6,1
+29,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,0,0,1,4,1
+55,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,0,0,0,1,1
+46,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,1,1,9,1
+69,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,1,6,1
+49,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,0,1,0,1,7,1
+57,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,0,0,1,1,8,1
+65,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,1,1,0,9,1
+78,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,1,1,1,6,1
+88,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,0,0,3,1
+85,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,0,1,0,0,1
+62,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,1,1,0,0,0
+72,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,0,1,1,9,0
+88,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,0,1,3,1
+60,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,1,0,5,1
+63,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,0,1,0,8,0
+76,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,0,0,0,0,1,2,1
+52,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,0,1,1,0,0
+57,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,0,0,1,1,0
+50,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,1,6,1
+47,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,0,0,1,3,1
+33,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,0,0,0,0,1
+42,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,0,0,1,1,1
+58,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,1,1,0,5,1
+33,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,0,0,0,9,1
+86,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,1,1,0,0,7,0
+41,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,1,0,10,1
+42,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,0,0,0,10,1
+45,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,1,1,1,2,1
+79,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,1,1,0,2,0
+53,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,1,0,0,0,1,4,1
+85,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,1,1,0,1,2,1
+54,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,1,0,1,2,0
+30,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,1,1,8,0
+42,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,0,0,0,4,0
+55,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,1,8,1
+47,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,0,1,1,3,1
+64,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,1,1,0,1,4,0
+40,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,1,0,10,1
+56,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,0,0,0,9,1
+19,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,1,2,0
+86,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,0,1,0,0,7,0
+34,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,1,1,0,0,6,1
+53,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,0,1,1,6,1
+23,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,1,0,1,8,1
+24,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,0,1,0,1
+88,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,1,1,0,9,1
+55,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,0,0,1,10,0
+34,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,0,8,1
+80,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,0,1,4,1
+31,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,1,1,1,0,6,1
+19,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,1,1,1,0,10,0
+54,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,0,0,0,0,1
+78,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,1,1,1,0
+79,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,1,10,1
+74,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,1,0,0,8,0
+61,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,0,0,0,1
+41,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,1,0,4,0
+24,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,0,1,0,0,0
+50,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,1,1,3,0
+79,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,0,1,0,3,1
+32,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,1,0,0,4,0
+26,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,0,8,0
+69,Female,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,0,0,1,0,0
+80,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,0,1,1,1
+27,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,1,0,5,0
+24,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,1,1,0,1,3,1
+37,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,1,1,0,7,1
+37,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,0,0,0,3,1
+90,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,1,1,1,5,0
+56,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,1,1,8,1
+28,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,0,1,0,6,1
+49,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,0,0,0,1,1,6,1
+33,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,0,0,0,7,0
+89,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,0,0,1,1
+71,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,0,1,5,0
+46,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,0,1,5,1
+84,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,0,0,1,0,1,4,0
+66,Female,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,0,0,0,4,1
+75,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,0,1,0,0,6,1
+74,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,0,0,0,1
+56,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,1,1,0,5,1
+72,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,1,0,1,3,0
+57,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,1,1,1,1,9,1
+90,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,0,0,0,2,1
+25,Other,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,1,0,0,6,0
+30,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,0,0,1,1,1,0,0
+44,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,1,0,9,1
+45,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,1,0,1,0,6,0
+51,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,0,1,1,7,1
+28,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,0,0,0,1,4,1
+38,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,0,1,6,1
+48,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,0,10,0
+40,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,0,1,0,2,0
+88,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,0,1,0,1,7,1
+27,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,0,2,1
+38,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,1,0,1,1,0,0
+18,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,1,1,1,10,0
+70,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,0,1,0,5,1
+75,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,0,0,0,3,1
+78,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,1,0,1,1,0,6,1
+55,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,1,0,0,4,0
+22,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,0,0,9,0
+47,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,0,1,9,0
+54,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,0,1,0,1,1
+54,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,0,0,0,1,1
+76,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,0,9,1
+27,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,1,0,0,2,0
+47,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,0,0,8,0
+51,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,0,1,1,5,1
+43,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,0,0,1,1,6,0
+72,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,1,0,0,7,1
+32,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,1,0,1,1,10,1
+87,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,0,1,0,10,1
+46,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,0,0,1,2,1
+37,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,1,0,1,8,0
+52,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,1,0,5,0
+36,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,1,1,0,1
+27,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,0,1,0,2,1
+25,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,0,1,1,0
+39,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,1,1,1,0,5,1
+57,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,1,0,5,1
+90,Female,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,1,0,0,10,1
+54,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,1,1,1,10,0
+74,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,0,1,3,1
+33,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,1,1,8,1
+77,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,0,0,0,3,0
+56,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,0,0,0,1
+69,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,0,10,1
+52,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,0,0,1,7,1
+82,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,0,0,0,0,7,1
+87,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,1,1,5,1
+81,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,0,1,5,0
+74,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,1,1,0,8,1
+28,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,0,1,0,2,1
+23,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,1,1,1
+73,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,0,0,1,2,0
+59,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,1,1,0,6,1
+50,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,1,1,1,2,1
+21,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,0,0,1,6,1
+29,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,1,1,1,1,1,4,0
+47,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,0,3,1
+20,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,0,9,1
+52,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,1,5,0
+23,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,0,1,0,6,1
+40,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,0,1,0,7,0
+78,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,0,0,10,1
+84,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,1,0,0,1,0,8,1
+74,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,1,1,1,4,1
+53,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,0,0,1,4,0
+41,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,1,0,1,6,1
+73,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,0,1,0,1
+80,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,1,0,1,7,1
+29,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,1,0,1,1,8,1
+78,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,0,0,1,9,0
+62,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,0,0,0,1,0,1
+70,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,1,0,1,7,1
+60,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,1,1,0,0,5,0
+59,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,0,1,1,0,1,1,1
+31,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,0,1,1,10,1
+38,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,0,0,0,9,1
+60,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,1,0,1,9,1
+70,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,0,0,0,1,0
+81,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,0,0,0,9,0
+54,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,0,1,8,0
+69,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,1,1,0
+88,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,0,1,0,7,1
+22,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,0,1,0,1,1,0,7,1
+76,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,0,1,5,1
+29,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,1,5,1
+58,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,0,0,1,1,1
+50,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,1,1,2,1
+59,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,0,1,9,1
+32,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,1,1,0,1,0,10,1
+69,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,0,1,4,0
+83,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,1,4,1
+18,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,0,1,1,1,1,1
+87,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,1,0,0,0,4,1
+77,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,1,0,1,9,1
+70,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,0,0,1,2,1
+24,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,0,1,1,5,1
+42,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,0,0,3,0
+84,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,1,0,1,1,10,1
+64,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,1,1,0,1,1,0
+81,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,1,0,1,6,1
+74,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,0,0,4,0
+24,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,1,1,9,0
+44,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,0,8,1
+52,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,1,0,2,1
+88,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,1,1,8,1
+34,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,1,1,0,0,10,0
+54,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,0,3,0
+74,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,0,1,0,8,0
+80,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,1,10,0
+33,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,0,1,0,5,0
+21,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,0,0,0,10,1
+48,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,1,1,9,1
+38,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,1,1,0,7,0
+57,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,0,0,1,0,4,1
+88,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,1,1,1,7,1
+19,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,0,0,7,1
+88,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,1,0,6,1
+70,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,1,0,5,0
+29,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,1,0,6,0
+46,Female,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,0,0,5,1
+32,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,1,0,9,1
+77,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,1,0,1,0,0,1
+33,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,0,1,1,7,1
+37,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,1,0,0,0,0
+81,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,1,0,5,1
+55,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,1,0,1,5,1
+83,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,0,0,0,4,1
+52,Other,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,1,0,9,1
+71,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,1,1,1,0,4,1
+79,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,0,1,0,10,1
+78,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,0,1,3,0
+49,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,1,0,10,1
+76,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,0,4,0
+88,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,0,1,3,1
+36,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,1,0,1,0,6,1
+67,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,1,1,1,0,8,1
+42,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,0,7,0
+83,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,1,1,0,10,1
+35,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,0,1,0,7,1
+26,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,1,0,0,1,1,1
+53,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,0,0,0,5,1
+71,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,0,0,0,0,1,6,1
+61,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,1,0,0,9,0
+82,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,0,1,1,2,1
+52,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,1,1,0,2,1
+18,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,0,0,0,0,1
+54,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,0,0,1,1,9,1
+56,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,0,0,0,4,1
+80,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,0,0,9,1
+37,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,0,1,0,1
+75,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,0,0,7,1
+86,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,0,0,0,6,1
+79,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,1,0,1,0,3,0
+62,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,0,1,0,1,0,4,1
+60,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,0,1,1,1
+88,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,0,1,0,1,5,0
+87,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,0,1,3,1
+66,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,0,1,1,0,5,1
+76,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,1,0,0,9,1
+59,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,0,1,0,0,7,1
+42,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,0,1,0,7,1
+48,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,1,1,1,1
+67,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,0,0,1
+47,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,1,10,1
+70,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,1,1,1,1,0,1
+23,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,1,0,0,0,1,1
+58,Other,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,0,1,1,0,1,1,0
+78,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,0,0,5,1
+66,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,1,0,10,0
+67,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,1,4,1
+37,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,1,1,1,0,0,7,1
+81,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,1,0,7,1
+22,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,0,1,3,1
+34,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,0,1,1,1,0,4,1
+82,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,0,1,1,9,1
+60,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,1,1,0,0,4,1
+30,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,1,0,3,1
+74,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,1,0,1,10,0
+30,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,0,0,0,1,1
+85,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,1,0,0,1,10,0
+76,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,0,1,1,4,1
+19,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,0,0,0,0,0,8,1
+36,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,0,1,0,0,7,1
+70,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,1,0,2,1
+37,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,1,1,1,2,0
+27,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,1,1,5,1
+78,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,1,1,0,1,5,0
+51,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,1,0,7,1
+61,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,1,0,0,0,1,8,0
+68,Other,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,1,0,0,5,0
+28,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,1,1,6,0
+60,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,0,1,1,1,4,1
+86,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,0,1,1,1,0
+66,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,1,0,1,0,3,1
+58,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,0,0,0,5,1
+80,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,1,4,0
+87,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,1,1,0,10,0
+22,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,0,1,10,1
+26,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,1,0,0,7,0
+48,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,1,1,1,0,4,1
+54,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,0,0,1,1
+47,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,1,0,1,6,1
+29,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,1,1,1,1,8,1
+73,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,1,1,1,5,1
+30,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,0,1,10,1
+30,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,1,0,0,5,1
+74,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,1,0,1,7,1
+39,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,0,0,1,0,3,1
+56,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,1,0,9,0
+21,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,1,1,1,1,10,1
+23,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,0,0,0,5,0
+59,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,1,2,0
+25,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,0,0,1,3,0
+55,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,0,0,0,1,2,0
+63,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,1,0,0,0,8,0
+65,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,0,0,5,1
+73,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,1,0,1,5,1
+36,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,0,0,1,5,1
+49,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,1,0,1,0,1,8,1
+85,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,1,0,0,1
+70,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,0,1,1,10,1
+90,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,1,0,0,0,9,1
+41,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,0,1,0,1,5,1
+39,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,1,1,0,1,7,0
+40,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,1,1,1,1,9,1
+28,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,1,0,1,0,4,1
+66,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,0,7,1
+48,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,1,1,5,1
+81,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,1,1,1,8,1
+36,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,0,0,1,0
+47,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,0,1,0,0,10,0
+77,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,1,1,1,6,1
+50,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,0,1,6,1
+76,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,0,1,1,1,0,1
+50,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,1,1,1,2,1
+19,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,0,1,8,1
+77,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,0,0,1,4,1
+54,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,0,10,1
+87,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,1,0,1,10,1
+38,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,0,1,0,1,1
+27,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,0,1,1,3,1
+74,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,1,0,0,0,6,1
+62,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,0,1,1,0,2,1
+56,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,1,3,0
+72,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,0,0,0,3,0
+50,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,1,1,0,10,0
+76,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,1,1,10,0
+56,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,0,0,1,0,4,1
+43,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,0,1,0,7,0
+67,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,0,1,0,1,0,0
+79,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,1,1,0,0,4,0
+31,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,0,1,0,1
+48,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,1,1,7,1
+66,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,1,0,1,0,1,1
+63,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,0,1,0,4,1
+55,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,0,0,1,1,6,1
+55,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,1,1,0,1,9,0
+20,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,1,1,0,7,1
+68,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,0,0,0,10,1
+53,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,0,0,0,1,1
+19,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,1,1,0,4,0
+90,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,1,7,0
+24,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,1,1,0,0,10,0
+81,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,1,1,0,9,1
+54,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,0,1,7,1
+47,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,1,0,1,1,0,1,3,1
+63,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,0,1,1,4,1
+46,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,0,1,0,0,1,1
+42,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,1,8,0
+50,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,1,5,1
+35,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,0,5,1
+30,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,1,0,0,0,9,1
+23,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,0,0,5,1
+57,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,0,0,0,0,1
+74,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,0,0,8,0
+22,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,0,1,1,3,1
+64,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,0,1,0,7,1
+34,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,1,0,1,4,0
+29,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,0,5,1
+55,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,0,0,0,1,6,1
+59,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,1,0,0,0
+71,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,0,0,1,1,1
+40,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,0,1,7,0
+43,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,0,0,0
+34,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,1,0,0,3,1
+87,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,0,1,1,9,1
+64,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,0,1,6,1
+85,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,1,0,1,0,1,1
+82,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,0,1,0,0,0,0,1
+52,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,1,1,0,1,1
+39,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,1,1,7,0
+50,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,0,1,1,5,0
+79,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,1,1,9,1
+55,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,0,1,1,0,10,1
+61,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,0,0,0,0,0
+32,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,1,1,0,10,0
+77,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,0,0,0,1
+27,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,0,1,1,1,1
+36,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,1,1,0,7,1
+46,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,0,0,0,0,1
+68,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,0,1,6,0
+89,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,0,0,1,7,0
+64,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,0,0,0,9,0
+29,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,1,1,10,1
+68,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,1,0,0,4,1
+19,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,1,1,9,1
+51,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,0,0,0,1
+86,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,0,0,7,1
+33,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,1,0,1,8,1
+76,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,1,1,6,0
+65,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,1,9,1
+51,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,1,0,2,1
+66,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,0,1,8,1
+65,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,0,1,5,0
+31,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,0,1,0,5,1
+47,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,0,1,1,1,1,10,0
+78,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,0,1,1,1,1,1
+21,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,1,0,1,1,6,1
+89,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,0,0,2,1
+59,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,1,0,1,1,0
+46,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,1,0,5,1
+26,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,0,1,0,1,0,0,9,1
+77,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,1,1,1,3,1
+56,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,1,0,1,0,10,0
+70,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,1,1,0,8,1
+32,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,1,9,1
+35,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,1,1,0,0,6,0
+23,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,0,1,7,1
+22,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,0,1,0,1,6,0
+56,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,1,0,10,0
+81,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,1,0,0,3,1
+32,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,1,1,0,0,1,5,1
+30,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,1,3,1
+48,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,1,6,1
+86,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,1,1,7,1
+35,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,0,1,0,3,1
+67,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,0,1,1,5,1
+76,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,0,1,10,1
+65,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,1,0,0,5,0
+87,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,1,1,0,8,1
+71,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,1,1,0,1,9,1
+37,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,0,1,0,6,0
+71,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,1,1,0,1
+30,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,0,1,1,7,1
+80,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,1,1,0,1
+70,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,1,0,7,0
+53,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,1,0,1,1,2,1
+22,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,0,0,0,2,1
+65,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,1,0,1,1,0,8,0
+45,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,1,1,0,8,0
+74,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,1,1,1,3,0
+74,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,0,1,0,1,4,0
+48,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,0,1,1,1
+64,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,0,1,1,3,1
+30,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,0,1,3,1
+65,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,1,5,0
+87,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,1,0,0,1,1
+63,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,1,1,3,0
+25,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,1,1,0,9,0
+68,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,0,0,1
+53,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,0,1,0,0,1,0
+42,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,1,0,4,1
+33,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,1,0,0,3,1
+76,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,1,1,0,0,0
+29,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,1,1,0,1,9,0
+45,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,0,0,1,7,1
+20,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,0,0,1,4,1
+24,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,1,1,1,0,2,0
+60,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,0,0,7,1
+49,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,0,1,10,1
+34,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,0,1,0,4,1
+90,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,1,0,9,0
+44,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,0,1,1,3,1
+26,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,0,1,1,6,1
+88,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,1,1,0,1,6,0
+44,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,0,10,1
+45,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,1,0,1,3,1
+47,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,0,0,5,1
+60,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,1,1,0,0,7,0
+36,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,1,0,0,1,9,1
+18,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,0,1,6,1
+53,Female,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,1,0,1,7,1
+36,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,1,1,1,1,1
+34,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,0,0,0,4,1
+87,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,0,1,0,8,1
+50,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,0,1,1,0,1
+40,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,0,1,3,0
+32,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,1,0,1,0,10,1
+21,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,1,0,1,0,1
+34,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,1,0,10,0
+19,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,0,1,0,1
+63,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,0,1,1,7,1
+48,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,1,1,0,10,1
+59,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,0,1,3,0
+20,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,0,1,0,0,5,0
+40,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,1,1,0,0,10,1
+51,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,0,1,6,1
+24,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,1,0,5,1
+34,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,1,1,1,8,1
+71,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,0,1,2,1
+85,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,1,6,1
+32,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,0,0,0,0,1
+26,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,0,0,1,8,1
+78,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,1,2,0
+75,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,1,0,1,5,1
+64,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,1,1,0,2,0
+83,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,0,1,1,10,1
+31,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,0,1,1,6,0
+75,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,1,0,1,1,0,1,3,0
+82,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,0,1,1,7,1
+46,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,1,1,1,9,0
+23,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,0,0,4,0
+84,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,0,1,1,1
+56,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,1,0,2,0
+76,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,1,0,8,0
+21,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,0,1,8,1
+25,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,0,0,0,6,0
+79,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,0,0,0,6,1
+69,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,0,0,0,9,1
+72,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,1,0,1,1,1
+31,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,1,1,1,1,1
+80,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,1,1,1,0,2,0
+74,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,1,0,1,1,10,1
+27,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,1,1,1,0,2,1
+28,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,0,0,0,3,1
+59,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,1,0,1,2,0
+36,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,0,1,1,0,1,0
+26,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,1,1,0,4,0
+34,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,1,0,10,0
+53,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,0,1,10,1
+88,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,0,0,2,0
+59,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,1,0,1,5,1
+66,Other,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,1,0,0,0,1,2,1
+85,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,0,1,1,0,6,0
+55,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,1,0,0,1,1
+76,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,1,1,0,0,1,1
+82,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,1,9,0
+73,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,1,1,7,1
+30,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,0,0,1,1,10,0
+32,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,1,0,1,8,0
+88,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,1,0,1,1,9,0
+45,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,1,0,2,1
+73,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,1,0,1,5,0
+75,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,0,9,0
+47,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,0,1,4,1
+70,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,0,1,0,0,1,6,0
+61,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,5,1
+76,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,0,1,1,0,7,1
+69,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,1,1,4,1
+71,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,1,1,10,1
+30,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,0,0,0,10,1
+58,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,1,1,0,4,1
+72,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,0,0,6,1
+58,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,0,0,0,5,1
+50,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,0,1,1,3,1
+65,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,0,1,2,0
+37,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,1,0,1,5,0
+78,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,0,0,10,1
+26,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,0,1,5,0
+29,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,1,1,1,4,1
+28,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,0,1,0,4,0
+29,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,0,1,0,1,1
+73,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,0,0,1,0
+30,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,1,1,0,8,1
+65,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,1,0,1,0
+34,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,0,1,1,1,1,8,0
+89,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,0,0,1,10,1
+25,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,1,1,5,0
+89,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,1,0,1,1
+89,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,1,1,0,1,3,0
+60,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,1,6,1
+33,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,0,1,1,7,0
+70,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,1,0,0,1,3,1
+63,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,1,0,1,1,8,0
+72,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,1,1,1,0,0,1
+24,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,0,0,1,10,0
+54,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,0,1,1,5,1
+57,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,0,0,1,2,1
+63,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,0,0,0,1
+31,Other,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,1,1,1,0,1,3,0
+82,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,1,1,1,8,1
+45,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,1,1,1,10,1
+37,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,0,1,0,10,1
+79,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,0,8,1
+46,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,1,1,1,1,0
+31,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,0,0,1,9,1
+62,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,1,0,3,0
+89,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,0,1,1,1,7,0
+65,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,0,0,1,6,0
+32,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,0,1,8,0
+53,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,0,0,0,1,4,1
+46,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,0,0,1,1,0
+72,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,1,1,0,1,1,8,0
+89,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,0,0,4,1
+89,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,0,1,7,0
+21,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,0,1,1,1,1
+52,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,1,0,1,4,1
+21,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,1,1,1,1,6,0
+41,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,1,1,10,0
+52,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,0,0,0,0,2,1
+57,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,0,1,1,2,1
+61,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,0,1,1,0,0,1
+62,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,1,1,0
+18,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,1,0,0,4,0
+41,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,1,1,0,1,10,0
+36,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,1,1,8,1
+90,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,1,0,1,1,3,0
+69,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,1,0,3,1
+26,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,0,1,3,0
+36,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,1,1,0,5,0
+21,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,1,1,4,0
+29,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,1,0,0,0
+85,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,1,0,1,1,0,1,1
+45,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,1,0,1,0
+66,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,1,0,1,0,2,1
+71,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,1,0,0,7,0
+76,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,0,0,0,1,2,1
+61,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,1,8,1
+38,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,1,1,3,1
+65,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,1,0,1,6,1
+57,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,0,1,1,0,0,1
+59,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,1,3,1
+90,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,0,1,0,0
+28,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,1,0,8,1
+24,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,1,1,7,1
+37,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,0,1,6,1
+38,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,0,4,1
+24,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,1,1,1,1,7,1
+28,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,0,1,0,0,0,7,1
+52,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,0,1,0,0
+74,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,0,0,9,0
+72,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,0,1,1,0,1
+80,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,1,1,0,6,0
+74,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,0,0,0,10,0
+71,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,1,1,1,10,0
+52,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,0,1,0,0,7,0
+45,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,1,0,1,6,1
+83,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,1,1,1,0
+32,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,1,1,1,1,1,8,1
+62,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,1,1,0,3,0
+73,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,0,0,0,1,7,0
+32,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,1,1,0,0,6,1
+54,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,1,1,2,1
+80,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,1,1,9,0
+85,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,1,1,1,5,1
+57,Other,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,0,1,1,1,0,0,1
+23,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,0,1,0,7,1
+46,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,1,0,1,0,6,0
+68,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,1,0,0,10,0
+25,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,0,1,0,7,1
+18,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,1,0,1,0
+44,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,1,0,0,10,0
+56,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,1,0,1,1,6,0
+45,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,1,0,1,0,2,0
+35,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,1,1,0,1,0
+50,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,0,0,1,0,7,1
+55,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,1,0,2,1
+59,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,0,1,0,1
+33,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,0,0,1,4,0
+18,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,1,0,8,0
+81,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,1,1,0,8,1
+73,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,1,0,8,1
+40,Other,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,1,1,1,6,1
+34,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,0,1,1,8,0
+66,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,1,0,0,1
+86,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,1,1,0,10,1
+47,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,0,1,4,1
+82,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,0,1,0,0,1,1
+89,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,1,1,1,1,8,1
+63,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,0,1,1,0,6,0
+27,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,1,1,1,1,1,9,0
+68,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,0,3,1
+23,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,1,1,0,0,1
+73,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,1,0,1,1,3,1
+20,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,0,1,0,1,10,1
+76,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,0,2,1
+27,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,0,1,0,0,6,0
+58,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,1,0,4,0
+72,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,0,1,1,10,0
+69,Female,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,0,1,1,5,0
+71,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,1,0,6,1
+55,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,0,0,4,1
+32,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,1,0,0,9,1
+69,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,1,1,0,0,1,6,0
+20,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,0,0,7,0
+59,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,1,0,1,4,0
+39,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,1,1,1,1
+76,Other,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,0,1,1,1,0,9,1
+64,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,0,0,9,0
+29,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,1,1,1,1
+73,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,0,1,6,1
+31,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,1,0,1,0,0
+49,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,0,1,5,0
+73,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,0,0,0,0,10,1
+69,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,0,0,0,3,1
+85,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,0,0,1,1,9,0
+28,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,1,1,0,10,1
+68,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,0,0,0,0,1
+57,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,0,1,0,0,6,0
+61,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,0,0,0,0,4,0
+46,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,0,1,1,9,0
+60,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,1,1,0,0,0,1
+39,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,0,1,0,9,1
+27,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,1,1,7,0
+83,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,0,1,10,0
+32,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,0,1,1,0,1
+85,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,0,0,3,1
+83,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,0,1,4,0
+42,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,0,0,1,2,1
+62,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,1,1,0,5,1
+62,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,0,0,0,10,1
+36,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,1,1,0,1,1,1
+48,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,0,1,1,1,1,0,9,0
+31,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,0,1,7,1
+36,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,0,0,1,1,10,1
+50,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,1,1,0,0,0,0
+43,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,0,0,0,1,1,0
+40,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,1,0,8,1
+37,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,1,0,1,1,1
+27,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,0,1,1,1,5,1
+40,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,0,1,1,0,0,8,1
+81,Female,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,1,0,1,0,0,9,1
+77,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,0,1,0,1,1,1
+90,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,0,0,3,0
+75,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,1,1,0,6,1
+90,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,0,1,0,0,8,0
+59,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,0,1,2,0
+58,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,1,0,0,0,9,1
+37,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,1,1,0,6,1
+74,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,0,0,0,0,7,1
+26,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,0,1,0,0,0
+78,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,1,1,1,1,1,0,7,0
+74,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,0,1,0,0,4,0
+56,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,0,1,0,1,2,1
+53,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,0,0,1,1,0
+25,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,1,0,1,0,5,1
+63,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,0,0,1,3,0
+82,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,0,0,1,1,0
+27,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,1,9,1
+57,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,1,1,1,0,3,0
+77,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,0,1,1,10,1
+75,Other,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,1,0,0,6,0
+22,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,0,0,0,1,2,1
+25,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,0,5,0
+65,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,0,0,0,1,2,1
+54,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,0,0,1,6,1
+27,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,0,0,0,0,0
+29,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,0,0,1,2,1
+82,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,1,0,1,2,1
+67,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,0,0,1,1,1
+77,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,1,1,1,6,1
+88,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,0,0,0,0,9,1
+23,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,0,1,0,1,1,0,1
+75,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,0,1,0,0,8,1
+42,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,0,8,0
+59,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,0,1,7,1
+78,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,0,0,1,0,5,1
+82,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,0,1,1,1,4,0
+37,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,0,0,0,1,8,1
+25,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,1,0,0,1
+75,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,0,0,1,2,1
+31,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,0,0,9,0
+61,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,1,1,3,1
+28,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,0,1,0,1,3,0
+82,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,1,1,1,1,1,5,0
+40,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,0,0,0,0,8,1
+23,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,0,1,3,0
+49,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,1,8,0
+74,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,1,1,4,0
+74,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,1,1,0,0,3,0
+85,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,1,0,0,10,1
+84,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,1,1,9,1
+38,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,0,0,1,1,10,1
+64,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,1,1,0,1,1,1
+65,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,0,0,1,0,0
+54,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,0,1,1,6,1
+67,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,1,0,0,0,5,1
+70,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,0,0,0,0,7,1
+61,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,0,1,1,0,1,3,1
+24,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,0,1,0,0,0,0,5,1
+60,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,0,1,1
+26,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,1,0,7,1
+60,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,0,0,4,1
+30,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,1,0,5,1
+89,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,0,0,0,4,1
+67,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,1,0,1,0,6,1
+54,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,0,1,9,0
+50,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,0,0,3,1
+37,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,0,1,1,5,1
+60,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,1,1,1,1
+28,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,1,1,0,1,0,1
+36,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,1,1,0,2,1
+62,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,0,1,1,0
+57,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,0,1,1,4,0
+68,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,1,0,1,0,0,1
+34,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,1,0,1,0
+28,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,0,0,2,1
+57,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,1,0,8,1
+89,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,1,0,0,0,3,1
+66,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,1,1,3,1
+60,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,0,1,1,1,1
+34,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,0,1,1,9,1
+85,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,1,0,5,0
+29,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,1,5,0
+72,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,1,1,0,1,0,8,1
+83,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,0,0,1,10,0
+64,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,1,1,0,9,0
+20,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,0,7,1
+64,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,1,1,1,9,1
+57,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,1,0,0,1,9,1
+41,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,1,1,0,0,1
+45,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,1,1,0,1,1,3,0
+61,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,1,1,5,1
+80,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,1,0,0,1,9,1
+42,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,0,0,7,1
+46,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,0,1,0
+35,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,0,7,0
+37,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,0,1,0,7,0
+27,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,0,1,1,1
+55,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,0,0,7,1
+30,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,0,1,1,0,1
+82,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,1,1,0,3,0
+87,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,1,0,0,1
+85,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,0,1,1,0,5,1
+22,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,0,0,1,6,0
+61,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,1,0,0,8,1
+34,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,1,0,1,1,7,0
+66,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,0,0,1,0,1
+37,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,0,1,0,1,9,1
+38,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,0,1,0,0,0,1,4,1
+41,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,0,1,0,1,1
+39,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,0,1,1,0,0,1,2,0
+74,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,1,4,1
+23,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,0,1,1,6,1
+70,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,1,1,1,1,1,0,1
+64,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,0,1,5,1
+48,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,1,0,0,0,1,0
+74,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,1,6,1
+54,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,0,0,4,1
+75,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,0,1,0,8,1
+47,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,1,1,1,0,3,1
+86,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,1,0,1,1,10,0
+48,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,0,0,0,0,1,10,1
+57,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,1,1,1,8,1
+78,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,0,0,0,9,1
+42,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,0,1,1,5,1
+65,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,0,1,0,1,1,3,0
+74,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,0,0,0,3,1
+77,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,0,0,0,1,7,0
+54,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,1,1,6,1
+66,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,1,1,1,8,1
+82,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,1,0,4,1
+85,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,0,0,1,0
+71,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,0,0,0,0,8,1
+38,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,1,0,1,7,1
+43,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,0,0,1,6,1
+35,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,1,0,7,0
+50,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,1,7,1
+24,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,0,1,10,1
+79,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,1,1,0,6,0
+65,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,1,0,1,0,0
+88,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,0,1,1,0,0,1
+31,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,1,0,6,1
+84,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,0,0,0,0,4,0
+33,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,1,1,1,0,3,0
+54,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,1,1,1,4,1
+28,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,1,1,0,5,0
+38,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,1,0,10,0
+52,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,0,1,0,0,0,1,9,1
+75,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,1,1,1,7,1
+83,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,0,1,1,10,0
+36,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,0,1,0,0,0,10,1
+73,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,1,1,0,10,1
+29,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,1,1,3,1
+46,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,0,1,1,1
+75,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,1,0,1,1,10,1
+62,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,1,0,0,0,7,1
+21,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,0,1,0,3,0
+71,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,1,1,1,1,0,1
+24,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,0,0,0,1,0,3,1
+68,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,1,0,3,0
+82,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,1,1,1,1,2,1
+65,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,1,0,1,4,0
+48,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,0,0,0,0,9,0
+67,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,0,1,1,6,0
+28,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,0,0,7,1
+65,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,1,0,0,5,1
+46,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,1,0,0,7,1
+21,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,0,1,1,1,4,1
+58,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,0,0,1,5,1
+30,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,0,1,1,1,1
+60,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,0,0,0,1,0,1
+36,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,0,1,1,0,4,1
+35,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,0,1,8,1
+22,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,1,4,1
+54,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,1,0,8,1
+78,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,0,1,1,1,0,1
+35,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,0,9,1
+78,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,0,0,4,0
+75,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,1,0,1,1,1,0,7,0
+18,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,0,1,1,3,0
+28,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,0,0,1,1,1,1
+20,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,1,1,0,0,0,8,1
+50,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,0,1,0,1,0
+45,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,1,5,0
+37,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,1,0,1,6,1
+88,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,0,1,0,0,0
+85,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,0,0,0,5,0
+72,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,0,1,1,4,1
+32,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,1,1,1,1,2,1
+54,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,1,0,1,1,7,0
+48,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,1,1,0,1,0,1
+56,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,1,0,1,0,7,1
+33,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,0,1,0,9,1
+24,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,1,1,0,9,0
+48,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,0,0,0,1,5,1
+71,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,1,0,0,9,1
+76,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,1,0,4,1
+26,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,0,0,7,0
+32,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,1,0,1,0,6,1
+81,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,0,1,1,1,0
+86,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,1,0,1,1
+20,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,1,1,1,1
+83,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,0,0,0,0,1,0,1
+48,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,0,1,1,1,7,1
+36,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,0,1,0,9,1
+55,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,0,1,1,0,7,1
+72,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,1,0,1,6,1
+18,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,0,0,4,1
+63,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,0,0,0,1,7,0
+48,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,1,0,0,5,0
+71,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,0,1,0,4,0
+41,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,0,1,1,10,0
+28,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,1,1,1,5,1
+85,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,0,1,6,1
+64,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,0,1,1,5,1
+26,Female,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,1,0,7,0
+85,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,0,0,0,0,1,2,0
+87,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,1,0,1,0,8,0
+82,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,0,0,9,1
+82,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,1,1,1,1,7,1
+88,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,0,1,0,0,2,0
+20,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,1,1,1,1,2,1
+67,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,0,1,1,6,1
+78,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,0,1,0,0,10,1
+23,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,0,1,1,1,9,1
+67,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,1,1,0,1,0,3,1
+65,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,1,0,1,4,1
+50,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,1,1,0,1,8,1
+20,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,0,5,1
+63,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,1,1,4,0
+26,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,0,0,1,10,1
+62,Other,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,1,1,1,0,1
+48,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,1,0,3,0
+31,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,0,1,1,9,1
+60,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,1,0,0
+35,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,1,0,1,9,1
+23,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,1,1,0,8,1
+63,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,0,1,1,4,0
+87,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,0,1,0,1,10,1
+61,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,1,6,1
+40,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,1,0,8,1
+77,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,1,0,1,0,5,0
+79,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,0,0,1,0,6,0
+41,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,0,0,1,0,1
+35,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,0,1,1,1,6,1
+26,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,1,1,1,0,1,1,6,1
+76,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,0,1,0,9,1
+22,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,0,1,0,0,9,1
+55,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,0,0,2,1
+43,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,1,0,1,10,0
+23,Female,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,1,0,1,1,0,6,1
+43,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,1,0,0,1,1
+23,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,0,1,1,1,3,0
+58,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,0,0,0,1,1,8,0
+57,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,0,1,2,1
+83,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,0,6,1
+68,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,1,8,1
+87,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,0,0,0,7,0
+78,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,0,0,1,0,1
+50,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,0,1,0,0,0,9,1
+22,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,0,0,7,1
+42,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,1,1,1,0,7,1
+54,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,1,0,7,1
+63,Male,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,0,1,1,1,1,7,1
+24,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,1,1,1,9,0
+60,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,1,0,1,0,5,1
+52,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,1,0,0,1,7,1
+33,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,1,0,0,0,1
+65,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,1,0,10,0
+73,Other,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,1,0,0,0,3,1
+69,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,1,1,0,1,1,9,0
+74,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,1,0,1,1,0,0,9,1
+67,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,1,6,1
+61,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,1,0,2,0
+41,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,1,0,6,0
+81,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,1,1,1,0,3,0
+81,Male,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,1,0,1,7,1
+65,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,1,1,0,1,7,1
+84,Female,Outpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,1,1,1,9,1
+52,Male,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,0,1,0,2,1
+28,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,1,1,1,7,1
+72,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,0,0,1,0,1,1
+28,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,0,1,0,0,0,0,10,0
+73,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,0,1,1,1,1,1,1
+41,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,0,0,0,1
+87,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,1,0,7,0
+55,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,0,1,3,1
+59,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,0,1,5,1
+31,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,1,1,1
+28,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,0,0,1,0,0,0,2,0
+59,Female,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,0,0,1,1,1,8,0
+55,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,1,0,1,9,1
+57,Other,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,1,0,0,1,6,1
+75,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,0,0,1,2,1
+72,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,0,1,0,0,2,0
+39,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,1,0,10,0
+74,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,0,0,0,0,1
+62,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,1,1,0,6,1
+75,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,1,0,1,8,1
+23,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,1,0,0,1,10,1
+63,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,0,1,1,1,2,1
+73,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,1,1,1,4,1
+53,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,1,1,3,0
+25,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,0,1,1,1,0,0,2,1
+27,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,0,1,0,0,3,1
+69,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,0,0,3,1
+64,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,1,0,10,0
+83,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,0,3,0
+38,Female,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,0,0,0,1,0,1
+21,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,1,0,1,2,0
+36,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,0,0,3,0
+74,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,1,9,1
+22,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,1,1,0,1,9,1
+34,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,0,1,1,0,3,0
+26,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,0,0,1,1,4,1
+48,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,1,1,0,4,1
+64,Other,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,1,0,0,1,6,1
+64,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,1,0,1
+67,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,0,1,6,0
+90,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,0,0,0,1,0,1
+22,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,1,0,1,6,1
+37,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,0,0,0,9,1
+75,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,0,0,1,4,0
+65,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,1,0,1,0,3,1
+65,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,0,1,10,0
+74,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,1,0,0,0,1
+27,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,0,0,0,1,6,1
+35,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,1,1,0,9,1
+85,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,1,0,0,1,0,5,1
+64,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,0,1,1,1,0,1,10,0
+68,Female,Outpatient,Less than 5 days,30 days or less,United States of America,0,1,0,1,0,1,1,2,1
+58,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,0,0,0,3,0
+53,Other,Inpatient,Less than 5 days,30 days or less,United States of America,0,1,1,1,1,1,0,5,1
+49,Female,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,1,0,1,7,1
+32,Other,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,0,0,1,8,1
+21,Male,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,0,1,1,0,6,1
+41,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,1,1,1,0,0,1,5,1
+81,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,1,0,1,2,1
+84,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,1,1,0,0,0,9,1
+67,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,1,1,1,4,0
+89,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,1,1,0,0,1,1
+33,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,1,0,0,0,2,1
+51,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,1,0,1,1,8,1
+51,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,0,0,5,1
+75,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,1,0,1,1,0,3,0
+45,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,0,7,1
+54,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,1,1,1,1,0,0
+80,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,0,0,0,1,0,0,0,1
+43,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,0,6,1
+33,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,1,1,0,4,0
+35,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,1,1,1,4,1
+27,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,1,0,8,1
+75,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,1,0,1,8,1
+40,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,0,1,5,1
+74,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,0,4,0
+29,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,1,1,0,0,1,0,1,8,1
+58,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,0,1,0,7,1
+62,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,0,0,0,5,1
+26,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,1,0,0,1,1,3,1
+88,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,1,1,0,1,1
+87,Other,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,0,1,0,1,0
+55,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,0,0,1,9,0
+56,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,1,0,1,1,0,0,10,1
+38,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,1,8,0
+40,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,0,1,0,0,0,0,1
+64,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,0,1,1,4,1
+83,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,0,1,0,0,2,0
+46,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,1,1,0,5,1
+33,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,1,0,5,0
+43,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,1,4,1
+35,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,0,1,2,0
+48,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,1,0,0,8,0
+81,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,0,1,0,0,1
+21,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,0,1,1,0,5,1
+64,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,0,1,0,3,0
+88,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,0,1,1,1,7,0
+65,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,0,0,0,6,0
+77,Female,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,1,1,1,4,1
+88,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,1,1,0,2,1
+34,Other,Inpatient,More than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,0,5,1
+29,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,1,1,0,5,1
+26,Other,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,1,1,1,0,1,1,0,0
+57,Male,Outpatient,More than 5 days,More than 30 days,Pakistan,1,1,0,0,0,1,0,7,0
+68,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,0,1,1,0,8,0
+79,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,1,1,1,1,6,1
+85,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,0,1,0,1,8,0
+70,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,0,1,1,8,1
+70,Male,Inpatient,More than 5 days,30 days or less,Pakistan,0,1,0,1,0,0,1,10,1
+27,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,0,0,7,0
+34,Female,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,1,0,0,8,1
+58,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,1,6,0
+27,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,0,1,0,0,0
+75,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,0,0,0,1,10,1
+77,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,1,0,0,2,1
+84,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,1,1,0,0,1
+62,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,1,0,3,1
+34,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,0,0,9,0
+88,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,1,0,2,1
+41,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,0,0,1,1,0,1,0,2,1
+34,Female,Outpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,0,1,0,0,1,0
+73,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,0,0,0,3,0
+82,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,1,1,0,1,0
+25,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,1,1,7,1
+33,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,0,0,0,0
+84,Female,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,1,1,1
+37,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,0,0,1,0,9,1
+56,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,0,1,1,5,0
+39,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,0,1,1,0,0,8,1
+38,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,0,1,1,6,1
+59,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,0,0,1,6,1
+46,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,0,1,0,3,1
+62,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,1,0,0,9,0
+84,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,0,0,1,0,1,9,0
+54,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,0,1,1,10,0
+28,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,0,1,1,2,0
+50,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,0,1,1,1,8,1
+43,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,1,1,0,7,1
+88,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,0,1,0,0,0,0,9,0
+53,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,1,0,0,1,8,0
+34,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,1,1,0,0,1,0,7,0
+56,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,0,0,2,1
+86,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,0,0,0,8,1
+29,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,1,0,1,0,7,1
+82,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,0,0,0,3,0
+39,Other,Outpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,0,1,0,1,0
+37,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,1,0,4,1
+39,Female,Outpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,1,1,1,2,1
+61,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,1,1,1,0,4,1
+90,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,1,1,1,9,1
+23,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,0,1,0,5,1
+21,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,1,0,1,6,0
+28,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,1,1,2,1
+23,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,0,0,0,9,1
+51,Female,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,1,0,0,0,0,1,1
+44,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,0,0,0,1,0,7,1
+71,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,1,0,0,0,10,1
+21,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,1,1,9,1
+81,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,1,0,1,6,0
+87,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,0,1,0,1,0,4,1
+55,Other,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,1,0,1,1,4,1
+56,Other,Inpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,0,0,0,0,1,1
+79,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,1,0,0,6,1
+49,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,1,1,0,0,0,1
+69,Male,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,0,1,0,1,3,1
+56,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,0,0,0,3,1
+76,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,0,0,2,1
+27,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,0,1,1,8,1
+25,Other,Outpatient,More than 5 days,More than 30 days,United States of America,0,0,0,0,1,1,0,8,1
+38,Male,Inpatient,Less than 5 days,More than 30 days,Pakistan,1,0,0,0,1,1,0,8,1
+74,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,1,0,1,0,0,1
+71,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,1,1,1,1,7,1
+79,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,1,0,0,1
+77,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,0,1,0,0,0,0,1
+44,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,0,0,1,0,5,1
+61,Male,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,1,1,0,0,1,1,1
+36,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,1,0,1,0,1
+58,Female,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,1,1,1,0,1,0,2,0
+58,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,1,1,8,1
+62,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,0,7,0
+69,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,1,1,4,1
+34,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,0,0,1,0,5,0
+65,Female,Outpatient,Less than 5 days,More than 30 days,United Kingdom,0,0,1,0,0,1,1,10,1
+83,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,1,0,1,1
+89,Female,Inpatient,More than 5 days,30 days or less,United States of America,1,1,1,0,1,0,0,2,1
+31,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,0,1,1,0,1,0,1
+58,Female,Inpatient,Less than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,0,2,1
+48,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,0,0,0,1,10,1
+77,Female,Inpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,0,1,1,2,0
+33,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,0,1,1,0,0,0,10,1
+52,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,1,0,0,1,0,1
+75,Other,Inpatient,More than 5 days,30 days or less,United States of America,0,1,1,0,0,0,1,1,1
+49,Male,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,1,1,1,1,0,0,7,1
+36,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,0,0,0,5,0
+30,Female,Outpatient,More than 5 days,30 days or less,United Kingdom,1,0,0,1,0,0,0,4,1
+24,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,1,0,1,0,1,5,1
+55,Male,Outpatient,More than 5 days,30 days or less,United States of America,0,0,0,0,0,1,0,4,1
+67,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,0,0,1,0,0,1,0
+71,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,1,1,6,1
+49,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,1,1,0,0,1,0,4,0
+38,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,0,1,0,1,8,0
+59,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,1,0,1,0,0,7,0
+58,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,0,1,1,0,1,1,9,0
+42,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,0,1,1,1,0,0,2,1
+38,Male,Inpatient,Less than 5 days,30 days or less,United Kingdom,0,0,0,0,1,0,1,10,0
+81,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,0,1,0,1,0
+83,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,0,0,1,0,1,0,1
+77,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,1,0,4,0
+81,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,1,0,0,6,1
+57,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,1,1,1,1,6,1
+81,Male,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,1,1,2,0
+20,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,1,1,0,0,0,1,7,1
+29,Other,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,1,5,0
+68,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,0,1,10,1
+82,Female,Inpatient,More than 5 days,30 days or less,Pakistan,0,0,1,0,1,0,1,0,0
+76,Other,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,0,0,1,1,0,1,1
+48,Male,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,0,1,0,5,0
+45,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,0,0,1,0,0,0,0,2,0
+63,Other,Outpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,1,1,0,1,6,1
+24,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,0,0,1,10,0
+24,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,0,1,0,0,1,10,1
+54,Female,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,1,1,0,9,0
+81,Male,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,0,1,1,0,7,0
+78,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,1,0,1,0,0,1,4,0
+54,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,1,0,0,4,1
+86,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,0,2,1
+19,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,1,0,0,0,0,0
+31,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,0,0,3,1
+73,Female,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,0,0,1,1,0,6,0
+35,Other,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,0,1,1,0,1
+51,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,0,1,7,0
+64,Other,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,1,1,0,8,1
+69,Other,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,1,1,1,0,0,5,1
+64,Other,Inpatient,Less than 5 days,30 days or less,United States of America,1,0,0,0,0,1,0,4,1
+23,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,1,0,1,1,8,1
+69,Other,Inpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,0,1,3,1
+24,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,0,1,0,0,1,1,3,1
+90,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,1,0,1,1,0,0,1
+89,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,1,0,1,9,0
+42,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,0,1,0,5,0
+64,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,0,0,0,0,0,8,0
+88,Female,Outpatient,Less than 5 days,30 days or less,United Kingdom,0,1,0,1,0,0,0,7,0
+54,Other,Inpatient,More than 5 days,More than 30 days,Pakistan,1,0,1,1,0,1,1,2,0
+27,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,1,0,0,3,1
+67,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,0,1,0,1,0,0,8,1
+82,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,0,0,0,0,3,1
+75,Male,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,1,6,1
+88,Female,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,0,0,0,1,8,1
+53,Male,Inpatient,Less than 5 days,30 days or less,United States of America,0,0,0,0,1,0,1,10,0
+33,Female,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,0,0,1,1,1,0,1
+34,Male,Outpatient,Less than 5 days,30 days or less,Pakistan,1,0,1,0,1,0,1,6,1
+30,Female,Inpatient,More than 5 days,More than 30 days,United States of America,1,0,1,1,1,1,1,0,0
+68,Other,Outpatient,Less than 5 days,30 days or less,Saudi Arabia,1,1,1,0,0,0,1,1,1
+65,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,1,1,0,4,1
+61,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,0,1,1,1,1,0,5,0
+89,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,1,0,1,0,7,1
+64,Male,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,1,1,0,0,1,9,0
+36,Male,Inpatient,More than 5 days,30 days or less,United Kingdom,1,1,1,1,0,1,0,2,1
+43,Male,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,0,0,1,1,1,3,1
+83,Male,Outpatient,Less than 5 days,30 days or less,United States of America,1,1,1,1,0,0,0,2,1
+69,Male,Inpatient,More than 5 days,30 days or less,Pakistan,1,1,1,1,0,1,1,6,1
+82,Other,Outpatient,Less than 5 days,More than 30 days,United Kingdom,1,1,0,0,1,1,1,7,1
+23,Female,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,0,0,1,1
+23,Male,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,0,0,0,1,0,4,1
+22,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,0,0,10,1
+35,Male,Outpatient,More than 5 days,30 days or less,Saudi Arabia,0,0,1,1,1,1,0,8,1
+60,Female,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,0,0,1,0,0,5,1
+78,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,1,0,8,1
+84,Female,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,0,1,1,0,0,0,1,1
+76,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,0,0,1,9,1
+37,Other,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,0,10,1
+83,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,0,1,0,1,7,1
+35,Male,Outpatient,More than 5 days,30 days or less,Pakistan,1,0,1,0,0,1,0,0,0
+59,Other,Inpatient,More than 5 days,30 days or less,Saudi Arabia,1,1,1,1,0,0,1,1,0
+58,Other,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,1,1,0,0,0,5,1
+38,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,0,0,1,0,0,0,0
+68,Male,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,0,0,0,1,1
+56,Female,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,1,1,0,0,1,9,0
+61,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,1,0,0,1,0,6,0
+82,Female,Inpatient,More than 5 days,More than 30 days,United Kingdom,0,0,0,1,1,0,0,7,0
+83,Male,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,0,0,0,1,0,9,0
+86,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,1,1,0,1,0,0,7,1
+80,Male,Outpatient,More than 5 days,More than 30 days,United Kingdom,1,0,1,0,0,0,0,10,0
+90,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,0,1,0,0,1,1,0,2,1
+56,Female,Outpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,1,0,1,0,0,0
+78,Female,Outpatient,More than 5 days,30 days or less,United States of America,1,0,0,1,0,0,1,9,0
+20,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,1,0,1,0,2,1
+65,Male,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,1,0,0,5,1
+60,Female,Inpatient,Less than 5 days,More than 30 days,United Kingdom,0,1,1,0,1,0,1,1,0
+32,Other,Outpatient,More than 5 days,30 days or less,United States of America,0,1,0,0,0,1,0,9,1
+71,Male,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,0,0,1,1,1,2,1
+57,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,1,1,0,0,1
+21,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,1,1,0,1,1
+78,Other,Outpatient,Less than 5 days,30 days or less,United States of America,0,0,1,1,0,1,0,8,0
+51,Male,Inpatient,Less than 5 days,30 days or less,Saudi Arabia,0,1,0,0,0,0,1,2,1
+47,Male,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,1,0,0,0,0,1,8,1
+24,Other,Outpatient,Less than 5 days,More than 30 days,United States of America,0,0,0,1,1,0,0,5,1
+79,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,0,1,1,0,2,1
+39,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,1,1,0,3,0
+85,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,1,1,1,0,0,1,0,3,1
+66,Other,Inpatient,More than 5 days,30 days or less,United Kingdom,0,0,0,0,0,0,0,2,1
+36,Male,Outpatient,Less than 5 days,More than 30 days,Pakistan,0,0,0,1,0,1,0,9,0
+49,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,1,1,0,1,1,0,1,7,0
+22,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,0,0,0,1,1,0,0,1
+32,Female,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,0,0,1,1,1,1,1,4,0
+42,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,0,1,0,0,1,9,1
+20,Female,Inpatient,More than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,0,1,0,10,1
+74,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,0,1,1,0,3,0
+58,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,0,1,1,1,0,0,7,0
+71,Female,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,0,0,0,9,1
+37,Other,Inpatient,More than 5 days,30 days or less,United States of America,1,1,0,0,1,1,1,5,0
+70,Male,Outpatient,More than 5 days,30 days or less,United States of America,1,1,1,1,1,1,0,8,1
+44,Female,Outpatient,Less than 5 days,More than 30 days,United States of America,1,1,1,1,1,0,0,2,0
+70,Female,Inpatient,More than 5 days,More than 30 days,Pakistan,0,0,0,0,1,1,0,9,1
+82,Male,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,1,1,0,1,1,1,1
+78,Female,Outpatient,More than 5 days,More than 30 days,United States of America,0,1,0,0,1,0,0,5,1
+25,Other,Outpatient,More than 5 days,More than 30 days,United Kingdom,0,1,0,0,1,0,1,8,1
+35,Male,Outpatient,More than 5 days,30 days or less,Pakistan,0,1,0,0,0,1,1,10,1
+84,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,1,0,1,1,1,1,0,5,1
+44,Other,Inpatient,Less than 5 days,More than 30 days,United Kingdom,1,0,0,1,1,1,0,5,1
+89,Other,Inpatient,Less than 5 days,More than 30 days,United States of America,0,1,1,1,0,1,1,1,1
+59,Other,Outpatient,Less than 5 days,30 days or less,United Kingdom,1,0,0,0,1,0,1,1,1
+79,Other,Inpatient,More than 5 days,More than 30 days,United Kingdom,1,1,1,0,1,1,1,6,1
+85,Other,Outpatient,Less than 5 days,30 days or less,Pakistan,0,0,0,0,0,0,1,3,1
+66,Male,Outpatient,Less than 5 days,More than 30 days,Saudi Arabia,1,0,0,0,1,0,1,9,1
+58,Male,Outpatient,More than 5 days,More than 30 days,United States of America,1,1,1,1,0,1,1,10,1
+40,Female,Inpatient,Less than 5 days,30 days or less,United States of America,1,1,1,0,0,1,0,7,0
+76,Male,Inpatient,Less than 5 days,30 days or less,Pakistan,0,0,1,1,0,0,1,1,0

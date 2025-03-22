@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="static/CDSS.css">
+    <!-- JS functionality -->
+    <script>
+// Speed of webpage 
+        document.addEventListener("DOMContentLoaded", () => {
+            const performanceTime = performance.timing.domContentLoadedEventEnd - performance.timing.navigationStart;
+            document.getElementById("performance").textContent = `Page loaded in ${performanceTime} ms.`;
+        });
+    //   DOwnlaod patient profile page
+    function downloadCSV() {
+            const data = [
+                ["Field", "Value"],
+                ["Prediction", "{{ result }}"],
+                ["Gender", "{{ data.get('gender', 'N/A') }}"],
+                ["Age", "{{ data.get('age', 'N/A') }}"],
+                ["Admission Department", "{{ data.get('admission-department', 'N/A') }}"],
+                ["Number of Previous Visits", "{{ data.get('previous-visits', 'N/A') }}"],
+                ["Last Hospitalization Duration", "{{ data.get('hospitalization-duration', 'N/A') }}"],
+                ["Last Exposure to Antibiotics", "{{ data.get('last-exposure', 'N/A') }}"],
+                ["Region", "{{ data.get('region', 'N/A') }}"],
+                ["Diabetes", "{{ 'Yes' if data.get('diabetes') else 'No' }}"],
+                ["Hypertension", "{{ 'Yes' if data.get('hypertension') else 'No' }}"],
+                ["Chronic Lung Disease", "{{ 'Yes' if data.get('chronic-lung-disease') else 'No' }}"],
+                ["Cardiovascular Disease", "{{ 'Yes' if data.get('cardiovascular-disease') else 'No' }}"],
+                ["Ciprofloxacin Usage", "{{ 'Yes' if data.get('ciprofloxacin') else 'No' }}"],
+                ["Resistance in Urine Culture", "{{ 'Yes' if data.get('resistance-in-urine') else 'No' }}"],
+                ["Previous Resistance to Antibiotics", "{{ 'Yes' if data.get('previous-resistance-to-antibiotics') else 'No' }}"]
+            ];
+            // converting array into downloadable format- e.g. CSV
+            const csvContent = data.map(row => row.join(",")).join("\n");
+            const blob = new Blob([csvContent], { type: 'text/csv' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'patient_prediction.csv';
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</head>
+<body>
+    <!-- Making prediction green if Not Resistant and bold red if Resistant for readability -->
+    <div class="container">
+        <p id="performance" style="color: green; font-weight: bold;"></p>
+        <h1>Antibiotic Resistance Prediction Result</h1>
+        <p><strong>Prediction:</strong> <span style="color: {{ 'red' if result == 'Resistant' else 'green' }};">{{ result }}</span></p>
+
+        <h2>Patient Profile</h2>
+        <ul>
+            <li><strong>Gender:</strong> {{ data.get("gender", "N/A") }}</li>
+            <li><strong>Age:</strong> {{ data.get("age", "N/A") }}</li>
+            <li><strong>Admission Department:</strong> {{ data.get("admission-department", "N/A") }}</li>
+            <li><strong>Number of Previous Visits:</strong> {{ data.get("previous-visits", "N/A") }}</li>
+            <li><strong>Last Hospitalization Duration:</strong> {{ data.get("hospitalization-duration", "N/A") }}</li>
+            <li><strong>Last Exposure to Antibiotics:</strong> {{ data.get("last-exposure", "N/A") }}</li>
+            <li><strong>Region:</strong> {{ data.get("region", "N/A") }}</li>
+        </ul>
+<!-- Jinja to pass backend values from model into frontend -->
+        <h2>Comorbidities</h2>
+        <ul>
+            {% if data.get("diabetes") %}<li>Diabetes</li>{% endif %}
+            {% if data.get("hypertension") %}<li>Hypertension</li>{% endif %}
+            {% if data.get("chronic-lung-disease") %}<li>Chronic Lower Respiratory Disease</li>{% endif %}
+            {% if data.get("cardiovascular-disease") %}<li>Cardiovascular and Ischemic Disease</li>{% endif %}
+        </ul>
+
+        <h2>Drugs</h2>
+        <ul>
+            {% if data.get("ciprofloxacin") %}<li>Ciprofloxacin</li>{% endif %}
+        </ul>
+
+        <h2>Previous Resistance Profiles</h2>
+        <ul>
+            {% if data.get("resistance-in-urine") %}<li>Previous Resistance in Urine Culture</li>{% endif %}
+            {% if data.get("resistance-any-antibiotics") %}<li>Previous Resistance to Any Antibiotics</li>{% endif %}
+        </ul>
+<!-- downlaod button  -->
+        <div class="button-group">
+            <button onclick="downloadCSV()">Download Prediction</button>
+            <a href="/" class="button">Return to Home</a>
+        </div>
+    </div>
+</body>
+</html>

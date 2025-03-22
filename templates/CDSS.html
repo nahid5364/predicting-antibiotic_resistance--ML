@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antibiotic Resistance Prediction Tool</title>
+    <link rel="stylesheet" href="static/CDSS.css">
+    <!-- Function to for add exceptions to maintain my data -->
+    <script>
+        function validateForm() {
+            const age = document.getElementById("age").value;
+            if (age < 1 || age > 99) {
+                alert("Age must be between 1 and 99.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+<!-- Performance of webpages- speed -->
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const performanceTime = performance.timing.domContentLoadedEventEnd - performance.timing.navigationStart;
+        document.getElementById("performance").textContent = `Page loaded in ${performanceTime} ms.`;
+    });
+</script>
+</head>
+<body>
+    <div class="title-container">
+        <h1>Antibiotic Resistance Prediction Tool</h1>
+        <h2 class="subtitle">Ciprofloxacin Resistance in Urinary Tract Infections</h2>
+    </div>
+    <!-- Inputs for form -->
+
+    <div class="container">
+        <p id="performance" style="color: green; font-weight: bold;"></p>
+        <!-- Tab link to Analysis Page -->
+        <div style="text-align: right; margin-bottom: 10px;">
+            <a href="/analysis" class="button" style="padding: 5px 10px; font-size: 0.9em;">Analysis Page</a>
+        </div>
+
+        <form action="/predict" method="POST" onsubmit="return validateForm()">
+            <div class="section">
+                <h2>Patient Information</h2>
+                <label for="gender">Gender:</label>
+                <select id="gender" name="gender" required>
+                    <option value="" disabled selected>Select Gender</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select>
+<!-- Features -->
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" placeholder="Enter age" min="1" max="99" required>
+
+                <label for="admission-department">Admission Department:</label>
+                <select id="admission-department" name="admission-department" required>
+                    <option value="" disabled selected>Select Department</option>
+                    <option value="outpatient">Outpatient</option>
+                    <option value="inpatient">Inpatient</option>
+                </select>
+
+                <label for="previous-visits">Number of Previous Visits:</label>
+                <input type="number" id="previous-visits" name="previous-visits" min="0" placeholder="Enter number" required>
+
+                <label for="hospitalization-duration">Last Hospitalization Duration:</label>
+                <select id="hospitalization-duration" name="hospitalization-duration" required>
+                    <option value="" disabled selected>Select Duration</option>
+                    <option value="less-5-days">Less than 5 days</option>
+                    <option value="more-5-days">More than 5 days</option>
+                </select>
+
+                <label for="last-exposure">Last Exposure to Antibiotics:</label>
+                <select id="last-exposure" name="last-exposure" required>
+                    <option value="" disabled selected>Select Exposure</option>
+                    <option value="less-30-days">30 days or less</option>
+                    <option value="more-30-days">More than 30 days</option>
+                </select>
+            </div>
+<!-- Adding different regions -->
+            <div class="section">
+                <h2>Regional Variance</h2>
+                <label for="region">Select Region:</label>
+                <select id="region" name="region" required>
+                    <option value="" disabled selected>Select Region</option>
+                    <option value="pakistan">Pakistan</option>
+                    <option value="saudi-arabia">Saudi Arabia</option>
+                    <option value="united-kingdom">United Kingdom</option>
+                    <option value="united-states">United States of America</option>
+                </select>
+            </div>
+
+            <div class="section">
+                <h2>Comorbidities</h2>
+                <div class="checkbox-group">
+                    <input type="checkbox" id="diabetes" name="diabetes" value="on">
+                    <label for="diabetes">Diabetes</label>
+
+                    <input type="checkbox" id="hypertension" name="hypertension" value="on">
+                    <label for="hypertension">Hypertension</label>
+
+                    <input type="checkbox" id="chronic-lung-disease" name="chronic-lung-disease" value="on">
+                    <label for="chronic-lung-disease">Chronic Lower Respiratory Disease</label>
+
+                    <input type="checkbox" id="cardiovascular-disease" name="cardiovascular-disease" value="on">
+                    <label for="cardiovascular-disease">Cardiovascular and Ischemic Disease</label>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>Drugs</h2>
+                <div class="checkbox-group">
+                    <input type="checkbox" id="ciprofloxacin" name="ciprofloxacin" value="on">
+                    <label for="ciprofloxacin">Ciprofloxacin</label>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>Previous Resistance Profiles</h2>
+                <div class="checkbox-group">
+                    <input type="checkbox" id="resistance-in-urine" name="resistance-in-urine" value="on">
+                    <label for="resistance-in-urine">Previous Resistance in Urine Culture</label>
+
+                    <input type="checkbox" id="resistance-any-antibiotics" name="resistance-any-antibiotics" value="on">
+                    <label for="resistance-any-antibiotics">Previous Resistance to Any Antibiotics</label>
+                </div>
+            </div>
+<!-- Submit button- will need to make blue to match NHS theme -->
+            <div class="button-group">
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Page</title>
+    <link rel="stylesheet" href="static/CDSS.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Prediction History</h1>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Gender</th>
+                    <th>Age</th>
+                    <th>Admission Dept</th>
+                    <th>Visits</th>
+                    <th>Duration</th>
+                    <th>Region</th>
+                    <th>Prediction</th>
+                </tr>
+            </thead>
+            <!-- Jinja to pass data entries from database -->
+            <tbody>
+                {% for row in history %}
+                <tr>
+                    <td>{{ row.id }}</td>
+                    <td>{{ row.gender }}</td>
+                    <td>{{ row.age }}</td>
+                    <td>{{ row.admission_department }}</td>
+                    <td>{{ row.previous_visits }}</td>
+                    <td>{{ row.hospitalization_duration }}</td>
+                    <td>{{ row.region }}</td>
+                    <td>{{ 'Resistant' if row.resistance_prediction == 1 else 'Not Resistant' }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <div class="button-group">
+            <button onclick="window.location.href='/download-history';">Download Data</button>
+            <button onclick="window.location.href='/email-history';">Email Data</button>
+            <a href="/" class="button">Return to Home</a>
+        </div>
+    </div>
+</body>
+</html>

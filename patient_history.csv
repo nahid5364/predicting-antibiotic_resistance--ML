@@ -1,0 +1,13 @@
+id,gender,age,admission_department,previous_visits,hospitalization_duration,last_exposure,region,ciprofloxacin,resistance_in_urine,previous_resistance_to_antibiotics,diabetes,hypertension,chronic_lung_disease,cardiovascular_disease,resistance_prediction
+1,male,27,outpatient,2,less-5-days,less-30-days,pakistan,1,1,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+2,female,27,outpatient,0,less-5-days,less-30-days,united-kingdom,1,0,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+3,female,27,outpatient,0,more-5-days,less-30-days,united-kingdom,1,0,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+4,female,42,inpatient,3,less-5-days,less-30-days,pakistan,1,1,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+5,female,27,outpatient,0,more-5-days,less-30-days,united-kingdom,1,0,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+6,female,27,outpatient,0,more-5-days,less-30-days,united-kingdom,1,0,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+7,female,27,outpatient,0,more-5-days,less-30-days,united-kingdom,1,0,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+8,other,42,outpatient,7,less-5-days,less-30-days,united-states,1,1,0,1,1,1,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+9,female,34,outpatient,10,less-5-days,less-30-days,saudi-arabia,1,1,0,1,1,1,1,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+10,female,29,inpatient,7,less-5-days,less-30-days,pakistan,1,0,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+11,female,29,inpatient,7,less-5-days,less-30-days,pakistan,1,0,0,1,0,0,0,b'\x00\x00\x00\x00\x00\x00\x00\x00'
+12,other,34,outpatient,3,less-5-days,less-30-days,pakistan,1,1,0,1,0,0,1,b'\x00\x00\x00\x00\x00\x00\x00\x00'
